@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="console-application">
+  <id>com.github.SatNaingTun.download_audio</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>download-audio</name>
+  <summary>Download and play Google TTS MP3 pronunciations</summary>
+  <description>
+    <p>
+      A command-line utility to download and play MP3 pronunciations from Google TTS.
+      Supports text files, inline strings, and StarDict dictionary directories.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/SatNaingTun/star-dictionary-huzheng</url>
+  <releases>
+    <release version="0.1.1" date="2026-10-10"/>
+  </releases>
+</component>
